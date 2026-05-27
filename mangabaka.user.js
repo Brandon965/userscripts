@@ -10,4 +10,4 @@
 // @include     /^(?:https?:\/\/)?.*bookwalker\.jp\/series\/\d+(\/.*)?/
 // @include     /^(?:https?:\/\/)?mangadex\.org\/title\/\d+(\/.*)?/
 // @grant       GM_xmlhttpRequest
-
+// ==/UserScript==
