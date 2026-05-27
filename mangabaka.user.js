@@ -9,3 +9,6 @@
 // @match       https://mangabaka.org/*/edit/covers
 // @run-at      document-start
 // ==/UserScript==
+
+
+console.log('Hello Mangabaka')
